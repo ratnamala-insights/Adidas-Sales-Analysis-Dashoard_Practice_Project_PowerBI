@@ -26,7 +26,9 @@ DAX (Data Analysis Expressions) – Measures and calculations
 The dataset used in this project was downloaded from kaggle which contains Adidas sales information such as:
 
 Retailer
+
 Retailer ID
+
 Invoice Date
 Region, State, City
 Product
