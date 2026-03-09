@@ -77,12 +77,16 @@ Midwest
 This helps identify high-performing markets.
 
 **State-Level Sales Map**
+
+
 <img width="440" height="217" alt="image" src="https://github.com/user-attachments/assets/b9c89b5b-2e50-40f8-8537-b23d8d3cf95c" />
 
 
 A geographical map visualization displays total sales by U.S. state, enabling quick identification of regions with strong sales performance.
 
 **Product Category Performance**
+
+
 <img width="360" height="193" alt="image" src="https://github.com/user-attachments/assets/bf817526-6c74-440c-8440-5208c923b7fe" />
 
 
